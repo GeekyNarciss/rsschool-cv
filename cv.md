@@ -5,7 +5,7 @@
 * email: artemiynastachenko@gmail.com
 
 # Summary
-* I want to get knowledge in the Frontend area
+* I want to get knowledge in the Frontend area. It's quite interesting for me at the moment.
 
 # Skills
 * C++
@@ -27,3 +27,8 @@ You can find my code examples on my [GitHub Account](https://github.com/GeekyNar
 
 # Languages
 * English - B1
+
+
+
+
+### 2020-02-11
