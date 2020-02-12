@@ -1,0 +1,49 @@
+
+body {
+    padding: 0 30px;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande","Arial Black","Arial Bold", sans-serif;
+    color: #222222;
+    
+}
+  header{
+    position: relative;
+    max-width: 1024px;
+    margin: auto;
+    
+ }
+ 
+main {
+    position: relative;
+    max-width: 1024px;
+    margin: auto;
+    
+  }
+
+h1 {
+    font-size: 33x;
+    line-height: normal;
+  
+}
+h2 {
+    font-size: 22px;
+    line-height: normal;
+  }
+  
+  time {
+    color: #6a2cce;
+  }
+
+ 
+  .icon {
+    position: absolute;
+    top: 35px;
+    left: 55px;
+    border-radius: 100px;
+  }
+  
+  li:not(:last-child) {
+    padding-bottom: 11px;
+  }
+  
